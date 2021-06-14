@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mix {
+    background-color: coral;
+    width: 170px;
+}
+
+body {
+    background-color: rgb(255, 180, 153);
+    width: 100%;
+    padding: auto;
+}
+
+.u {
+    display: flex;
+    justify-content: center;
+}
+
+.u2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.u3 {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    margin-top: 30px;
+}
